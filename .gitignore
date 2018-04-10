@@ -1,0 +1,11 @@
+/bin/
+/target/
+/logs/
+/.classpath
+/.project
+/.settings/
+/out/
+/.idea/
+/.externalToolBuilders/
+/maven-eclipse.xml
+/*.iml
